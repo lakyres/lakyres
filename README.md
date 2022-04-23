@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning programming because I still don't have any experience.
 
-- 💞️ I’m looking to collaborate on ... uhm I'm clueless and don't have any idea.
+- 💞️ I’m looking to collaborate on ... sikretong malupet
 
 - 📫 How to reach me ... you can reach me through my fb account; LINK: https://www.facebook.com/kyla.marjes/
 
