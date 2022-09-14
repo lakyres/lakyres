@@ -25,7 +25,7 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/kysmf" target="blank"><img src="https://img.shields.io/twitter/follow/kysmf?logo=twitter&style=for-the-badge" alt="kysmf" /></a> </p>
+<p align="right"> <a href="https://twitter.com/kysmf" target="blank"><img src="https://img.shields.io/twitter/follow/kysmf?logo=twitter&style=for-the-badge" alt="kysmf" /></a> </p>
 
 
 <!---
