@@ -3,7 +3,7 @@
 
 
 
-<p> <img align="right" alt="gif" src:"https://giffiles.alphacoders.com/214/214178.gif" width="500" height="320" /> </p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakyres&theme=radical" alt="lakyres" /></a> </p>
