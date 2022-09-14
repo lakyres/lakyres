@@ -70,6 +70,8 @@
 <a href="https://discord.gg/kylers#3263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kylers#3263" height="30" width="40" /></a>
 </p>
 
+<h4 align="right">GMAIL: kylamarjes11@gmail.com</h4>
+
 <p align="right"> <a href="https://twitter.com/kysmf" target="blank"><img src="https://img.shields.io/twitter/follow/kysmf?logo=twitter&style=for-the-badge" alt="kysmf" /></a> </p>
 
 <hr size="100">
