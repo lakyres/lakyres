@@ -12,10 +12,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakyres&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakyres&show_icons=true&locale=en&layout=compact" alt="lakyres" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakyres&show_icons=true&locale=en" alt="lakyres" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakyres&&theme=radical" alt="lakyres" /></p>
 
 <h3 align="center">Connect with me:</h3>
