@@ -1,5 +1,10 @@
-- <h1 align="center">Hi 👋, I'm Kyla Marjes</h1>
+<h1 align="center">Hiii 👋, I'm Kyla Marjes</h1>
+
+<hr size="100">
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakyres&label=Profile%20views&color=0e75b6&style=flat" alt="lakyres" /> </p>
+
+<h3 align="center">Now, you shall perish!</h3>
 
 
 <p align="center" ><img src="https://github.com/lakyres/lakyres/blob/main/raiden%20burst.gif" width="400"></p>
@@ -68,6 +73,8 @@
 <p align="right"> <a href="https://twitter.com/kysmf" target="blank"><img src="https://img.shields.io/twitter/follow/kysmf?logo=twitter&style=for-the-badge" alt="kysmf" /></a> </p>
 
 <hr size="100">
+
+<h3 align="center">Nothing lasts forever!</h3>
 
 <p align="center" ><img src="https://github.com/lakyres/lakyres/blob/main/yae%20miko%20burst.gif" width="400"></p>
 
