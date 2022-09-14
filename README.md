@@ -47,6 +47,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakyres&&theme=radical" alt="lakyres" /></p>
 
+![snake gif](https://github.com/lakyres/lakyres/blob/output/github-contribution-grid-snake.gif)
+
 </div>
 
 <hr size="100">
