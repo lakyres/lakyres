@@ -47,7 +47,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakyres&&theme=radical" alt="lakyres" /></p>
 
-![snake gif](https://github.com/lakyres/lakyres/blob/output/github-contribution-grid-snake.gif)
+<br> 
+
+<h4 align="center">Hey, check out my contribution graph get eaten by a snake. ≧◠‿◠≦🤘</h4>
+
+![snake gif](https://github.com/lakyres/lakyres/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
