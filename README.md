@@ -16,7 +16,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakyres&show_icons=true&locale=en" alt="lakyres" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakyres&" alt="lakyres" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakyres&&theme=radical" alt="lakyres" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
