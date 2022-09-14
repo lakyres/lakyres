@@ -11,7 +11,9 @@
 
 <hr size="100">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakyres&theme=radical" alt="lakyres" /></a> </p>
+
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakyres&theme=radical&row=2&column=3" alt="lakyres" /></a> </p>
+</div>
 
 <hr size="100">
 
