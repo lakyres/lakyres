@@ -1,5 +1,9 @@
 - <h1 align="center">Hi 👋, I'm Kyla Marjes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakyres&label=Profile%20views&color=0e75b6&style=flat" alt="lakyres" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakyres&label=Profile%20views&color=0e75b6&style=flat" alt="lakyres" /> </p>
+
+
+
+<p> <img align="right" alt="gif" src:"https://giffiles.alphacoders.com/214/214178.gif" width="500" height="320" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakyres&theme=radical" alt="lakyres" /></a> </p>
