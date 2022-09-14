@@ -6,7 +6,6 @@
 
 <h3 align="center">Now, you shall perish!</h3>
 
-
 <p align="center" ><img src="https://github.com/lakyres/lakyres/blob/main/raiden%20burst.gif" width="400"></p>
 
 <hr size="100">
