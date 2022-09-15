@@ -71,7 +71,9 @@
 <a href="https://discord.gg/kylers#3263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kylers#3263" height="30" width="40" /></a>
 </p>
 
-<h4 align="center">You can email me at -> GMAIL: kylamarjes11@gmail.com ///// YAHOO: kylamarjes11@yahoo.com</h4>
+<h4 align="center">You can email me at: </h4>
+ <p align="center"> <a href="mailto:kylamarjes11@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="32" width="42"></a>
+<a href="mailto:kylamarjes11@yahoo.com"><img src="https://www.kindpng.com/picc/m/354-3541882_a-purple-email-icon-logo-yahoo-mail-png.png" height="30" width="40" alt="yahoo"></a> </p>
 
 <p align="right"> <a href="https://twitter.com/kysmf" target="blank"><img src="https://img.shields.io/twitter/follow/kysmf?logo=twitter&style=for-the-badge" alt="kysmf" /></a> </p>
 
