@@ -75,7 +75,7 @@
  <p align="center"> <a href="mailto:kylamarjes11@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="32" width="42"></a>
 <a href="mailto:kylamarjes11@yahoo.com"><img src="https://www.kindpng.com/picc/m/354-3541882_a-purple-email-icon-logo-yahoo-mail-png.png" height="30" width="40" alt="yahoo"></a> </p>
 
-<p align="right"> <a href="https://twitter.com/kyla_nm" target="blank"><img src="https://img.shields.io/twitter/follow/kysmf?logo=twitter&style=for-the-badge" alt="kysmf" /></a> </p>
+<p align="right"> <a href="https://twitter.com/kyla_nm" target="blank"><img src="https://img.shields.io/twitter/follow/kyla_nm?logo=twitter&style=for-the-badge" alt="kyla_nm" /></a> </p>
 
 <hr size="100">
 
