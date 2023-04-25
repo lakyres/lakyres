@@ -1,5 +1,7 @@
 <h1 align="center">Hiii 👋, I'm Kyla Marjes</h1>
 
+<h2>I'm currently studying at Polytechnic University of the Philippines (Bachelor of Science in Computer Engineering)</h2>
+
 <hr size="100">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakyres&label=Profile%20Views&color=0e75b6&style=flat" alt="lakyres" /> </p>
