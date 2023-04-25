@@ -1,6 +1,6 @@
 <h1 align="center">Hiii 👋, I'm Kyla Marjes</h1>
 
-<h2>I'm currently studying at Polytechnic University of the Philippines (Bachelor of Science in Computer Engineering)</h2>
+<h4>I'm currently studying at Polytechnic University of the Philippines (Bachelor of Science in Computer Engineering)</h4>
 
 <hr size="100">
 
@@ -43,6 +43,7 @@
 
 <p align="center"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a>
 </p>
 
 <div align="center">
