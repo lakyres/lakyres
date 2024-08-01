@@ -1,4 +1,4 @@
-<h1 align="center">Hiii 👋, I'm Kyla Marjes</h1>
+<h1 align="center">Wazzup Eyyy 🤙🏻 , I'm Kyla Marjes</h1>
 
 <h4>I'm currently studying at Polytechnic University of the Philippines (Bachelor of Science in Computer Engineering)</h4>
 
