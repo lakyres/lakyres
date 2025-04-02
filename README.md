@@ -1,24 +1,18 @@
-<h1 align="center">🤙🏻 , i'm kyla marjes</h1>
+<h1 align="center">🤙🏻 , i'm kyla</h1>
 
-<h4>i'm currently studying at polytechnic university of the philippines (bachelor of science in computer engineering) with specialization in machine learning</h4>
+<h4 align="center">i'm currently studying at polytechnic university of the philippines (bachelor of science in computer engineering) with specialization in machine learning</h4>
 
 <hr size="100">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakyres&label=Profile%20Views&color=0e75b6&style=flat" alt="lakyres" /> </p>
 
-<h3 align="center">now, you shall perish!</h3>
-
-<p align="center" ><img src="https://github.com/lakyres/lakyres/blob/main/raiden%20burst.gif" width="400"></p>
+<p align="center"><img src="https://github.com/lakyres/lakyres/blob/main/until-then-until-then-computer.gif" width="400"></p>
 
 <hr size="100">
 
+<div align="center">
 
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakyres&theme=radical&row=2&column=3" alt="lakyres" /></a> </p>
-</div>
-
-<hr size="100">
-
-<h3 align="center">languages and tools:</h3>
+## 🛠️ languages and tools:
 
 <!-- Programming Languages -->
 <h4 align="center">programming languages:</h4>
@@ -66,7 +60,7 @@
 </p>
 
 <!-- AI and ML -->
-<h4 align="center">AI & ML:</h4>
+<h4 align="center">ai & ml:</h4>
 <p align="center">
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -83,18 +77,21 @@
   <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
 </p>
 
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakyres&show_icons=true&theme=radical)
-
 <hr size="100">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lakyres&count_private=true&show_icons=true&theme=radical)
+## 📊 github stats:
+![](https://github-readme-stats.vercel.app/api?username=lakyres&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lakyres&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakyres&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakyres&&theme=radical" alt="lakyres" /></p>
+## 🏆 github trophies
+![](https://github-profile-trophy.vercel.app/?username=lakyres&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-<br> 
+### ✍️ random dev quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 🔝 top contributed repo
+![](https://github-contributor-stats.vercel.app/api?username=lakyres&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -103,22 +100,22 @@
 <h3 align="center">connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kyla_nm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyla_nm" height="30" width="40" /></a>
-<a href="https://web.facebook.com/kynmrjs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kynmrjs" height="30" width="40" /></a>
+<a href="https://web.facebook.com/ilyyume/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ilyyume" height="30" width="40" /></a>
 <a href="https://instagram.com/kylaaa_marjes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kylaaa_marjes" height="30" width="40" /></a>
-<a href="https://discord.gg/kylers#3263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kylers#3263" height="30" width="40" /></a>
+<a href="https://discord.gg/yume_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yume_143" height="30" width="40" /></a>
 </p>
 
 <h4 align="center">you can email me at: </h4>
  <p align="center"> <a href="mailto:kylamarjes11@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="32" width="42"></a>
-<a href="mailto:kylamarjes11@yahoo.com"><img src="https://www.kindpng.com/picc/m/354-3541882_a-purple-email-icon-logo-yahoo-mail-png.png" height="30" width="40" alt="yahoo"></a> </p>
+<a href="mailto:kylamarjes_11@yahoo.com"><img src="https://www.kindpng.com/picc/m/354-3541882_a-purple-email-icon-logo-yahoo-mail-png.png" height="30" width="40" alt="yahoo"></a> </p>
 
 <p align="right"> <a href="https://twitter.com/kyla_nm" target="blank"><img src="https://img.shields.io/twitter/follow/kyla_nm?logo=twitter&style=for-the-badge" alt="kyla_nm" /></a> </p>
 
 <hr size="100">
 
-<h3 align="center">nothing lasts forever!</h3>
+<h3 align="center">until then!</h3>
 
-<p align="center" ><img src="https://github.com/lakyres/lakyres/blob/main/yae%20miko%20burst.gif" width="400"></p>
+<p align="center"><img src="https://github.com/lakyres/lakyres/blob/main/until-then-until-then-game.gif" width="400"></p>
 
 <!---
 lakyres/lakyres is a ✨ special ✨ repository because its `memyselfandi.md` (this file) appears on your GitHub profile.
