@@ -1,6 +1,6 @@
 <h1 align="center">🤙🏻 , i'm kyla</h1>
 
-<h4 align="center">i'm a graduate student at polytechnic university of the philippines (bachelor of science in computer engineering) with specialization in machine learning and artificail intelligence </h4>
+<h4 align="center">i'm a graduate student at polytechnic university of the philippines (bachelor of science in computer engineering) with specialization in machine learning and artificial intelligence </h4>
 
 <hr size="100">
 
